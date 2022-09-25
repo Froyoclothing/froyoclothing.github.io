@@ -1,5 +1,5 @@
 body {
-  background: #ffffff;
-  background-image: repeating-linear-gradient(45deg, #fafafa 0, #fafafa 1px, #ffffff 0, #ffffff 50%);
-  height: 400vh;
+  background-color: #ffffff;
+  background-size: 10px 10px;
+  background-image: repeating-linear-gradient(45deg, #f6f6f6 0, #f6f6f6 1px, #ffffff 0, #ffffff 50%);
 }
